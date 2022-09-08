@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
   },
   modal: {
     width: WIDTH - MARGIN,
-    height: WIDTH * 0.45,
+    height: 168,
     marginTop: HEIGHT / 4,
     backgroundColor: "#F9F9F9",
     borderRadius: 14,
